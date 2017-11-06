@@ -86,6 +86,9 @@ ipch/
 # TFS 2012 Local Workspace
 $tf/
 
+# VS 2017 cache/options directory
+*.vs/
+
 # Guidance Automation Toolkit
 *.gpState
 
